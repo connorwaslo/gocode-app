@@ -45,6 +45,7 @@ I will be going through and implementing some bug fixes over the next few months
 - 🐛 Passing props through react-navigation is broken
 - 🐛 NavigatorService no longer works
 - 🐛 Lessons navigate before saving data, breaks lessonsCompleted data until reload
+- 🐛 Weird margin below the header and unnecessary navigation header on load
 
 ---------------------
 
