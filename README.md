@@ -45,3 +45,9 @@ I will be going through and implementing some bug fixes over the next few months
 - 🐛 Passing props through react-navigation is broken
 - 🐛 NavigatorService no longer works
 - 🐛 Lessons navigate before saving data, breaks lessonsCompleted data until reload
+
+---------------------
+
+Looking back at my code a year later, I recognize that this project's code isn't very pretty.
+
+I've learned a lot since then and would do things very differently - but a lot of what I learned, I learned the hard way making this app.
