@@ -33,7 +33,7 @@ I will be going through and implementing some bug fixes over the next few months
 - [x] Various types of learning activities
     - [x] Write code, answer multiple choice questions, matching
 - [x] Custom built animations
-- [x] Fully functional on both iOS and Android (<3 React-Native + Expo)
+- [x] Fully functional on both iOS and Android (:heart: React-Native + Expo)
 - [ ] Navigation works 100% of the time
 - [ ] Styles scale to all devices
 
